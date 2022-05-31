@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/redesign/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <title>Document</title>
+
+    <!-- Old Style -->
+    <style>
+        table,
+        td {
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+        }
+
+        table {
+            border-spacing: 0 !important;
+            border-collapse: collapse !important;
+            table-layout: fixed !important;
+            margin: 0 auto !important;
+        }
+    </style>
+
+    <style>
+        :root {
+            --bs-blue: #0d6efd;
+            --bs-indigo: #6610f2;
+            --bs-purple: #6f42c1;
+            --bs-pink: #d63384;
+            --bs-red: #dc3545;
+            --bs-orange: #fd7e14;
+            --bs-yellow: #ffc107;
+            --bs-green: #198754;
+            --bs-teal: #20c997;
+            --bs-cyan: #0dcaf0;
+            --bs-white: #fff;
+            --bs-gray: #6c757d;
+            --bs-gray-dark: #343a40;
+            --bs-gray-100: #f8f9fa;
+            --bs-gray-200: #e9ecef;
+            --bs-gray-300: #dee2e6;
+            --bs-gray-400: #ced4da;
+            --bs-gray-500: #adb5bd;
+            --bs-gray-600: #6c757d;
+            --bs-gray-700: #495057;
+            --bs-gray-800: #343a40;
+            --bs-gray-900: #212529;
+            --bs-primary: #0d6efd;
+            --bs-secondary: #6c757d;
+            --bs-success: #198754;
+            --bs-info: #0dcaf0;
+            --bs-warning: #ffc107;
+            --bs-danger: #dc3545;
+            --bs-light: #f8f9fa;
+            --bs-dark: #212529;
+            --bs-primary-rgb: 13, 110, 253;
+            --bs-secondary-rgb: 108, 117, 125;
+            --bs-success-rgb: 25, 135, 84;
+            --bs-info-rgb: 13, 202, 240;
+            --bs-warning-rgb: 255, 193, 7;
+            --bs-danger-rgb: 220, 53, 69;
+            --bs-light-rgb: 248, 249, 250;
+            --bs-dark-rgb: 33, 37, 41;
+            --bs-white-rgb: 255, 255, 255;
+            --bs-black-rgb: 0, 0, 0;
+            --bs-body-color-rgb: 33, 37, 41;
+            --bs-body-bg-rgb: 255, 255, 255;
+            --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+            --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+            --bs-body-font-family: var(--bs-font-sans-serif);
+            --bs-body-font-size: 1rem;
+            --bs-body-font-weight: 400;
+            --bs-body-line-height: 1.5;
+            --bs-body-color: #212529;
+            --bs-body-bg: #fff;
+        }
+
+        body {
+            margin: 0;
+            font-family: var(--bs-body-font-family);
+            font-size: var(--bs-body-font-size);
+            font-weight: var(--bs-body-font-weight);
+            line-height: var(--bs-body-line-height);
+            color: var(--bs-body-color);
+            text-align: var(--bs-body-text-align);
+            background-color: var(--bs-body-bg);
+            -webkit-text-size-adjust: 100%;
+            -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        }
+
+        table {
+            caption-side: bottom;
+            border-collapse: collapse;
+        }
+
+        td {
+            padding: 0 3em;
+        }
+
+        thead,
+        tbody,
+        tfoot,
+        tr,
+        td,
+        th {
+            border-color: inherit;
+            border-style: solid;
+            border-width: 0;
+        }
+
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+        }
+
+        user agent stylesheet tbody {
+            display: table-row-group;
+            vertical-align: middle;
+            border-color: inherit;
+        }
+
+        h4,
+        .h4 {
+            font-size: 1.5rem;
+        }
+
+        h5,
+        .h5 {
+            font-size: 1.25rem;
+        }
+
+        h6,
+        .h6,
+        h5,
+        .h5,
+        h4,
+        .h4,
+        h3,
+        .h3,
+        h2,
+        .h2,
+        h1,
+        .h1 {
+            margin-top: 0;
+            margin-bottom: 0.5 rem;
+            font-weight: 500;
+            line-height: 1.2;
+        }
+
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+        }
+
+        h4 {
+            display: block;
+            margin-block-start: 1.33em;
+            margin-block-end: 1.33em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+            font-weight: bold;
+        }
+
+        .bg-white {
+            background-color: #fff;
+        }
+
+        .w-100 {
+            width: 100% !important;
+        }
+
+        .border-0 {
+            border: 0 !important;
+        }
+
+        .text-green {
+            color: #008036 !important;
+        }
+
+        .font-weight-bold {
+            font-weight: 700 !important;
+        }
+    </style>
+</head>
+
+<body>
+    <table cellpadding="0" cellspacing="0" bgcolor="#F2F2F2" role="presentation" border="0" class="border-0 w-100">
+        <tbody>
+            <tr>
+                <td align="center" valign="top">
+                    <table width="800" cellpadding="5" cellspacing="10" role="presentation" border="0" class="bg-white">
+                        <tbody class="bg_white" role="presentation" border="0">
+                            <tr valign="top" class="bg_white">
+                                <td colspan="2" style="text-align: center; padding: 1rem">
+                                    <h4 class="text-green font-weight-bold">Bukti Pengajuan Pelaporan Klaim Reimburse –
+                                        #participant_name# –
+                                        #rumah_sakit#
+                                    </h4>
+                                </td>
+                            </tr>
+                            <tr valign="middle">
+                                <td colspan="2" style="text-align: center;">
+                                    Pada Tanggal #tanggal_form#,
+                                    diterima laporan klaim dengan detail berikut :
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-green font-weight-bold" style="padding: 1em 0 .25em 3em !important;">
+                                    Data Peserta
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Nama Perusahaan Afiliasi Peserta</div>
+                                </td>
+                                <td>
+                                    <div>: #perusahaan_afliasi#</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Nama Peserta Sesuai KTP</div>
+                                </td>
+                                <td>
+                                    <div>: #participant_name#</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Nomor HP Aktif Peserta</div>
+                                </td>
+                                <td>
+                                    <div>: #participant_phone_number#</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Email Aktif Peserta</div>
+                                </td>
+                                <td>
+                                    <div>: #participant_email#</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Nomor KTP</div>
+                                </td>
+                                <td>
+                                    <div>: #participant_identity_card_no#</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>ID Perserta</div>
+                                </td>
+                                <td>
+                                    <div>: #participant_user_id#</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Rumah Sakit yang Dikunjungi</div>
+                                </td>
+                                <td>
+                                    <div>: #rumah_sakit#</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-green font-weight-bold" style="padding: 1em 0 .25em 3em !important;">
+                                    Data Alasan Pengobatan
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Alasan Pengobatan dikarenakan</div>
+                                </td>
+                                <td>
+                                    <div>: Sakit</div>
+                                </td>
+                            <tr>
+                                <td>
+                                    <div>Tanggal Timbulnya Keluhan/Kondisi Sakit</div>
+                                </td>
+                                <td>
+                                    <div>: #sick_date#</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Kronologi Timbulnya Keluhan/Kondisi Sakit</div>
+                                </td>
+                                <td>
+                                    <div>: #sick_chronogical#</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-green font-weight-bold" style="padding: 1em 0 .25em 3em !important;">
+                                    Data Rekening
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Nama Rekening</div>
+                                </td>
+                                <td>
+                                    <div>: #bank_acc_name#</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Nama Bank</div>
+                                </td>
+                                <td>
+                                    <div>: #bank_name#</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Nomor Rekening</div>
+                                </td>
+                                <td>
+                                    <div>: #bank_acc_no#</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-green font-weight-bold" style="padding: 1em 0 .25em 3em !important;">
+                                    Saya Adalah Peserta
+                                </td>
+                            <tr>
+                                <td colspan="2" style="padding:1.5em 3em .5em 3em !important; text-align: justify;"
+                                    class="text-uppercase">
+                                    DENGAN INI SAYA PESERTA/WALI/PELAPOR YANG BERTINDAK ATAS NAMA
+                                    PESERTA DALAM MENYAMPAIKAN KETERANGAN INI DENGAN SEBENARNYA DAN TANPA PAKSAAN,
+                                    DAN MENGAJUKAN LAPORAN PERMINTAAN KLAIM REIMBURSE ATAS NAMA PESERTA
+                                    BERIKUT SAYA CANTUMKAN NAMA LENGKAP SESUAI DALAM KTP, UNTUK DIANGGAP SAH SEBAGAI
+                                    TANDA TANGAN BASAH SAYA.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div>Pengaju Klaim bagi Peserta, Tertanda</div>
+                                </td>
+                                <td>
+                                    <div>: #submit_signature#</div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" style="padding:.5em 3em .5em 3em !important; text-align: justify;"
+                                    class="text-uppercase">
+                                    DENGAN INI, SAYA SETUJU BAHWA SELURUH DATA YANG SAYA SAMPAIKAN MELALUI KANAL INI
+                                    DAPAT
+                                    DIGUNAKAN UNTUK KEBUTUHAN PEMPROSESAN KLAIM ATAS NAMA PESERTA, DIMANA DAPAT
+                                    DITERUSKAN KE PIHAK PENYEDIA KESEHATAN REKANAN, KONSULTAN ASURANSI ATAU PENANGGUNG
+                                    YANG
+                                    TERAFILIASI DENGAN SALVUS HEALTH.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" valign="middle" style="padding: 2em 0 4em 0;">
+                                    <div class="text" style="padding: 0 2.5em; text-align: center;">
+                                        <img src="https://salvushealth.id/assets/frontend/new-assets/img/salvushealth-new.png"
+                                            width="185" alt="">
+                                        <h5>Solusi perancangan program jaminan kesehatan dan administrasi klaim.</h5>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>

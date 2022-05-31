@@ -1,0 +1,242 @@
+Wed, 28 Apr 2021 15:51:51 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:51:51 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:51:52 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:51:52 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:51:54 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:51:54 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:51:55 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:51:55 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:51:57 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:51:57 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:51:58 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:51:58 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:00 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:00 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:01 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:01 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:03 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:03 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:04 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:04 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:06 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:06 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:07 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:07 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:09 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:09 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:10 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:10 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:11 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:11 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:13 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:13 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:15 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:15 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:16 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:16 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:17 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:17 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:18 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:18 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:20 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:20 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:21 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:21 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:23 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:23 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:25 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:25 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:26 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:26 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:27 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:27 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:29 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:29 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:30 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:30 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:32 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:32 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:33 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:33 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
+ReplyError: Ready check failed: NOAUTH Authentication required.
+    at parseError (/opt/app/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/opt/app/node_modules/redis-parser/lib/parser.js:303:14) {
+  command: 'INFO',
+  code: 'NOAUTH'
+}
+Wed, 28 Apr 2021 15:52:34 GMT express-session deprecated undefined resave option; provide resave option at server.js:28:9
+Wed, 28 Apr 2021 15:52:34 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:28:9
